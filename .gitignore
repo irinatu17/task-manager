@@ -1,1 +1,4 @@
 env.py
+.theia
+.gitpod.yml
+.gitpod.dockerfile
